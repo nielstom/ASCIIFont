@@ -2,7 +2,7 @@
 def main():
 
     # Define valid ASCII font characters (same ordering as input colossalFontSymbols.txt)
-    font_alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789?!"
+    font_alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789?! "
 
     # Get the input string passed in.
     input_text = input("Convert text: ")
